@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "wands",
+	"version": "${version}",
+	"name": "Cinnamon's Wands",
+	"description": "This is a simple mod that adds wands to Minecraft!",
+	"authors": [
+		"CinnamonRoll"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/wands/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+          "net.grant.wands.WandsMod"
+		],
+		"client": [
+			"net.grant.wands.WandsModClient"
+		],
+		"fabric-datagen": [
+          "net.grant.wands.WandsModDataGenerator"
+		]
+	},
+	"mixins": [
+		"wands.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.13",
+		"minecraft": "~1.20.4",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
