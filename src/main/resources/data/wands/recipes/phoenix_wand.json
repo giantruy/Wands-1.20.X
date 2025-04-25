@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "/",
+        "W",
+        "N"
+    ],
+    "key": {
+        "/": {
+            "item": "minecraft:stick"
+        },
+        "W": {
+            "item": "wands:phoenix_feather"
+        },
+        "N": {
+            "item": "minecraft:nether_star"
+        }
+    },
+    "result": {
+        "item": "wands:wand",
+        "count": 1
+    }
+}

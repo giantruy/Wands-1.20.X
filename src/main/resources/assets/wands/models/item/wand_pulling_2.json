@@ -1,0 +1,6 @@
+{
+  "parent": "wands:item/wand",
+  "textures": {
+    "layer0": "wands:item/wand_pulling_2"
+  }
+}
