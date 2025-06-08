@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "wands:item/unicorn_hair"
+    "layer0": "wands:item/dragon_core"
   }
 }

@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "wands:item/dragon_heartstring"
+    "layer0": "wands:item/fireball_wand"
   }
 }

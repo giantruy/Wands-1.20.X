@@ -7,9 +7,6 @@ import net.minecraft.util.Identifier;
 import net.minecraft.entity.LivingEntity; // Ensure you have this import
 
 public class ModModelPredicates {
-    public static void registerModelPredicates() {
-        registerCustomBow(ModItems.WAND);
-    }
 
     private static void registerCustomBow(Item item) {
         ModelPredicateProviderRegistry.register(item, new Identifier("minecraft", "pull"), (stack, world, entity, seed) -> {

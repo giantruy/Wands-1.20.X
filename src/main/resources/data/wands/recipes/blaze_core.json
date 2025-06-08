@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "/",
+    "W",
+    "N"
+  ],
+  "key": {
+    "/": {
+      "item": "minecraft:blaze_powder"
+    },
+    "W": {
+      "item": "minecraft:blaze_rod"
+    },
+    "N": {
+      "item": "minecraft:fire_charge"
+    }
+  },
+  "result": {
+    "item": "wands:blaze_core",
+    "count": 1
+  }
+}

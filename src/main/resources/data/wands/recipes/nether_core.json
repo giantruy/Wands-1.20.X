@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "/",
+    "W",
+    "N"
+  ],
+  "key": {
+    "/": {
+      "item": "minecraft:nether_star"
+    },
+    "W": {
+      "item": "minecraft:fire_charge"
+    },
+    "N": {
+      "item": "minecraft:beacon"
+    }
+  },
+  "result": {
+    "item": "wands:nether_core",
+    "count": 1
+  }
+}

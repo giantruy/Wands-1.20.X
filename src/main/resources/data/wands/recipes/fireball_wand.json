@@ -10,14 +10,14 @@
             "item": "minecraft:stick"
         },
         "W": {
-            "item": "wands:phoenix_feather"
+            "item": "wands:blaze_core"
         },
         "N": {
             "item": "minecraft:nether_star"
         }
     },
     "result": {
-        "item": "wands:wand",
+        "item": "wands:fireball_wand",
         "count": 1
     }
 }

@@ -1,8 +1,12 @@
 {
-  "item.wands.dragon_heartstring": "Dragon Heartstring Core",
-  "item.wands.phoenix_feather": "Phoenix Feather Core",
-  "item.wands.unicorn_hair": "Unicorn Hair Core",
+  "item.wands.dragon_core": "Dragon Core",
+  "item.wands.blaze_core": "Blaze Core",
+  "item.wands.nether_core": "Nether Core",
   "item.wands.wand": "Wand",
+  "item.wands.fireball_wand": "Fireball Wand",
+  "item.wands.bolt_wand": "Bolt Wand",
+  "item.wands.dragon_wand": "Dragon Wand",
+  "death.attack.magic": "magic",
 
-  "itemgroup.wands": "Mystical Wands"
+  "itemgroup.wands": "Simple Wands"
 }

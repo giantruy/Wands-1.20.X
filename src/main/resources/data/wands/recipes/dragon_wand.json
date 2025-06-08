@@ -10,14 +10,14 @@
             "item": "minecraft:stick"
         },
         "W": {
-            "item": "wands:dragon_heartstring"
+            "item": "wands:dragon_core"
         },
         "N": {
             "item": "minecraft:nether_star"
         }
     },
     "result": {
-        "item": "wands:wand",
+        "item": "wands:dragon_wand",
         "count": 1
     }
 }

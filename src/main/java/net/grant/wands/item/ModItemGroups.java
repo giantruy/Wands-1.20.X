@@ -17,7 +17,9 @@ public class ModItemGroups {
                         entries.add(ModItems.D_CORE);
                         entries.add(ModItems.P_CORE);
                         entries.add(ModItems.U_CORE);
-                        entries.add(ModItems.WAND);
+                        entries.add(ModItems.FIREBALL_WAND);
+                        entries.add(ModItems.DRAGON_WAND);
+                        entries.add(ModItems.BOLT_WAND);
 
 
                     }).build());
